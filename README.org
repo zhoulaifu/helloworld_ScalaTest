@@ -1,7 +1,7 @@
 * What is this 
 
-This is the (nearly) minimal setting for doing a text-book unit testing for
-Scala. Below I list the commands so a pense-bete. Scala package `myPackage`
+This is the (nearly) minimal setting for doing a unit testing for
+Scala. Below I list the commands as a pense-bete. Scala package `myPackage`
 includes `MyLib.scala` that defines a function to test, and `MyTestSuite.scala`
 that does the test; Two ScalaTest jar files are put into the repo for your
 convenience.
