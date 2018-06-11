@@ -1,14 +1,14 @@
 * What is this 
 
 This is the (nearly) minimal setting for doing a unit testing for
-Scala. Below I list the commands as a pense-bete. Scala package ～myPackage～
-includes `MyLib.scala` that defines a function to test, and `MyTestSuite.scala`
+Scala. Below I list the commands as a pense-bete. Scala package =myPackage=
+includes =MyLib.scala= that defines a function to test, and =MyTestSuite.scala=
 that does the test; Two ScalaTest jar files are put into the repo for your
 convenience.
 
 
 I have intentionally avoided sbt, a complex beast. The commands below use only
-`scalac` and `scala`. Type the commands from the directory where `myPackage` can be accessed without additional scoping. 
+scalac and scala. Use them from the directory where =myPackage= can be accessed without additional scoping. 
 
 * How to compile
 
